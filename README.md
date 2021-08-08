@@ -34,7 +34,7 @@ Figure. Procedure of extracting FAA (Imotions, 2017)
 - 실험절차: 인적사항 및 자기보고 회복탄력성 측정도구 KRQ-53에 응답, 5분간 눈을 감고 명상하도록 지시받음, 이 기간동안의 뇌파를 측정해 휴지(rest)상태의 뇌파를 측정
 - 전처리 및 분석: Brain Products GmbH의 BrainAnalyzer, Python 3.7.6, numpy 1.18.1, scipy 1.4.1, SPSS Statistics 25
 - 참고
-   - FAA 처리 코드
+   - [FAA 처리 코드](https://github.com/BrainNim/BrainScience/blob/main/rest_fft_log.py)
    - [그래프 생성 코드](https://github.com/BrainNim/BrainScience/blob/main/mk_graph.py)
 
 

@@ -5,7 +5,7 @@
 ## 신경과학적 방법론의 성격특질측정 활용 가능성
 > 전두비대칭뇌파와 회복탄력성의 상관관계를 중심으로.
 
-[Journal of The Korean Data Analysis Society(JKDAS)](http://www.kdas.or.kr/index.ink) 2021 08 개제 확정
+[Journal of The Korean Data Analysis Society(JKDAS)](https://doi.org/10.37727/jkdas.2021.23.3.1445) 2021 06 개제
 
 ### FAA(Frontal Alpha Asymmetry), 전두비대칭뇌파
 

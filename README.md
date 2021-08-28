@@ -2,19 +2,12 @@
 > 학부, 석사 과정 중 수업, 과제, 흥미 등으로 조사하거나 정리/작성 뇌과학, 인지신경과학, 뉴로마케팅 자료들입니다.
 
 
-## 신경과학적 방법론의 성격특질측정 활용 가능성
-> 전두비대칭뇌파와 회복탄력성의 상관관계를 중심으로.
-
-[Journal of The Korean Data Analysis Society(JKDAS)](https://doi.org/10.37727/jkdas.2021.23.3.1445) 2021 06 개제
-
-### FAA(Frontal Alpha Asymmetry), 전두비대칭뇌파
-
+## FAA(Frontal Alpha Asymmetry), 전두비대칭뇌파
 ![FAA_introduce_image](https://user-images.githubusercontent.com/87905878/128627231-da57e602-6a16-435e-bd98-1f4d0d994d09.png)
-
 Figure. Procedure of extracting FAA (Imotions, 2017)
 
 
-#### FAA 원리
+### FAA 원리
 - 인간의 좌측 전두엽의 피질과 우측 전두엽의 피질은 정서적 환경이나 반응, 조절에 따라 분리되어 개별적인 활성화 및 비활성화 양상을 보이기도 하는데, 이를 Laterality models of affect (Davidson, 1999)이라고 한다.
 - 우축 전두피질의 활성화는 주로 회피동기(avoidance motivation) 혹은 부정정서와 연관되어 있으며, 좌측 전두피질의 활성화는 주로 접근동기(Approach motivation) 혹은 긍정정서와 밀접한 연관이 있다. 이러한 좌우 전두피질의 비대칭적 활성화를 통해 개인의 성향의 특징화가 가능하다고 보기도 한다(Harmon-Jones, Gable, Peterson, 2010). 
 - 이러한 관점에서 뇌파 측정을 통해 좌우 전두피질의 비대칭적 활성화에 의한 좌우 전두피질에서의 alpha wave의 파워 간의 비율을 지표화 한 것을 FAA라고 부른다. 
@@ -28,7 +21,14 @@ Figure. Procedure of extracting FAA (Imotions, 2017)
 - 정서조절연구
    * [Chung, Yoon., 2008](https://doi.org/10.22172/cogbio.2008.20.4.001)
    * [Nash, Inzlicht, McGregor., 2012](https://doi.org/10.1016/j.biopsycho.2012.05.005)
+- 광고마케팅연구
+   * [Ohme et al., 2010]()
+   * [Cartocci et al, 2016]()
 
+
+## 신경과학적 방법론의 성격특질측정 활용 가능성
+> 전두비대칭뇌파와 회복탄력성의 상관관계를 중심으로.
+[Journal of The Korean Data Analysis Society(JKDAS)](https://doi.org/10.37727/jkdas.2021.23.3.1445) 2021 06 개제
 
 ### 실험
 - 실험절차: 인적사항 및 자기보고 회복탄력성 측정도구 KRQ-53에 응답, 5분간 눈을 감고 명상하도록 지시받음, 이 기간동안의 뇌파를 측정해 휴지(rest)상태의 뇌파를 측정
@@ -73,3 +73,16 @@ Fig. Correlation of FAA and resilience
 - 시선추적, 뇌영상촬영 등의 신경과학적 방법론을 활용해 소비자의 인지신경적 반응을 측정
 - 소비자 심리 및 행동의 매커니즘을 해명하고 이를 광고와 마케팅에 응용하려는 광고 마케팅 활동
 (김병희, 2015)
+
+### 실험
+- 실험절차: 인적사항 및 브랜드 태도, 애착, 충성도 등을 측정하기 위한 측정도구에 응답. 각 세션의 광고Block에서 실험용 광고자극 1개와 더미 광고자극 9개를 무작위적인 순서로 시청, 이때의 뇌파를 측정. 스트룹Block에서는 직전 광고블럭에서의 영향을 환기하기 위해 스트룹과제(stroop task)를 진행. 세션은 충 2개.
+![procedure image](https://user-images.githubusercontent.com/87905878/131220928-23ba2608-4dc6-4dfb-89a9-100dc4d992f6.png)  
+Fig. procedure  
+
+- 전처리 및 분석: Brain Products GmbH의 BrainAnalyzer, Python 3.7.6, numpy 1.18.1, scipy 1.4.1, SPSS Statistics 25
+- 참고
+   - 실험용 광고자극: Galaxy S10, iPhone SE
+   - [FAA 처리 코드](https://github.com/BrainNim/BrainScience/blob/main/rest_fft_log.py)
+   - [그래프 생성 코드](https://github.com/BrainNim/BrainScience/blob/main/mk_graph.py)
+
+### 결과

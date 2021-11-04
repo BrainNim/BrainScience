@@ -83,6 +83,6 @@ Fig. procedure
 - 참고
    - 실험용 광고자극: Galaxy S10, iPhone SE
    - [FAA 처리 코드](https://github.com/BrainNim/BrainScience/blob/main/rest_fft_log.py)
-   - [그래프 생성 코드](https://github.com/BrainNim/BrainScience/blob/main/mk_graph.py)
+   - [그래프 생성 코드](https://github.com/BrainNim/BrainScience/blob/main/article_graph.ipynb)
 
 ### 결과

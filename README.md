@@ -86,3 +86,10 @@ Fig. procedure
    - [그래프 생성 코드](https://github.com/BrainNim/BrainScience/blob/main/article_graph.ipynb)
 
 ### 결과
+![result image](https://user-images.githubusercontent.com/87905878/141123899-ceb201c2-15c6-46f6-8e12-0b3f5e930518.png)  
+Fig. 갤럭시에 대한 브랜드 충성도가 높은 집단 VS 낮은 집단의 갤럭시 광고 시청시 FAA  
+- 14~16초 / 24~26초 / 26~28초 구간에서 집단간 차이가 유의함
+  
+![result image](https://user-images.githubusercontent.com/87905878/141124218-8a6121ab-6da6-4bc6-a338-6a4e5292eaf6.png)
+Fig. 갤럭시 광고시청 후 만족도 설문에서 높은점수로 응답한 집단 VS 낮은점수 집단의 갤럭시 광고 시청시 FAA
+- 오히려 차이가 유의한 부분이 없음

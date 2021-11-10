@@ -75,7 +75,7 @@ Fig. Correlation of FAA and resilience
 (김병희, 2015)
 
 ### 실험
-- 실험절차: 인적사항 및 브랜드 태도, 애착, 충성도 등을 측정하기 위한 측정도구에 응답. 각 세션의 광고Block에서 실험용 광고자극 1개와 더미 광고자극 9개를 무작위적인 순서로 시청, 이때의 뇌파를 측정. 스트룹Block에서는 직전 광고블럭에서의 영향을 환기하기 위해 스트룹과제(stroop task)를 진행. 세션은 충 2개.
+- 실험절차: 인적사항 및 브랜드 태도, 애착, 충성도 등을 측정하기 위한 측정도구에 응답. 각 세션의 광고Block에서 실험용 광고자극 1개와 더미 광고자극 9개를 무작위적인 순서로 시청, 이때의 뇌파를 측정. 스트룹Block에서는 직전 광고블럭에서의 영향을 환기하기 위해 스트룹과제(stroop task)를 진행. 세션은 충 2개.  
 ![procedure image](https://user-images.githubusercontent.com/87905878/131220928-23ba2608-4dc6-4dfb-89a9-100dc4d992f6.png)  
 Fig. procedure  
 
@@ -88,8 +88,8 @@ Fig. procedure
 ### 결과
 ![result image](https://user-images.githubusercontent.com/87905878/141123899-ceb201c2-15c6-46f6-8e12-0b3f5e930518.png)  
 Fig. 갤럭시에 대한 브랜드 충성도가 높은 집단 VS 낮은 집단의 갤럭시 광고 시청시 FAA  
-- 14~16초 / 24~26초 / 26~28초 구간에서 집단간 차이가 유의함
+- 14 ~ 16초 / 24 ~ 26초 / 26 ~ 28초 구간에서 집단간 차이가 유의함
   
-![result image](https://user-images.githubusercontent.com/87905878/141124218-8a6121ab-6da6-4bc6-a338-6a4e5292eaf6.png)
+![result image](https://user-images.githubusercontent.com/87905878/141124218-8a6121ab-6da6-4bc6-a338-6a4e5292eaf6.png)  
 Fig. 갤럭시 광고시청 후 만족도 설문에서 높은점수로 응답한 집단 VS 낮은점수 집단의 갤럭시 광고 시청시 FAA
 - 오히려 차이가 유의한 부분이 없음
